@@ -1,0 +1,14 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - matplotlib=*
+  - numpy=*
+  - pandas=*
+  - rasterio=*
+  - rioxarray=*
+  - scikit-learn=*
+  - scipy=*
+  - seaborn=*
+  - tqdm=*
+  - xarray=*
